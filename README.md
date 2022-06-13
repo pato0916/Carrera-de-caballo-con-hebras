@@ -21,3 +21,4 @@ se crean los caballos a traves de Threads
 ### Uso del programa
 
 Al correr el programa por consola se vera secuencialmente el avance de cada caballo hasta llegar al final de la pista dando por escrito el caballo ganador.
+//para compilar usar: gcc -o carrera carrera.c -lpthread -lncurses -DMUTEX
